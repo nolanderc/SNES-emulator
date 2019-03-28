@@ -4,4 +4,4 @@ Cargo.lock
 *.smc
 *.obj
 *.link
-*.swp
+**/*.swp
